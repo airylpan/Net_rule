@@ -22,9 +22,9 @@
     "rules": [
       {"outbound": "any", "server": "localDns", "disable_cache": true},
       {"rule_set": "geosite-cn", "server": "localDns"},
+      {"rule_set": "geosite-geolocation-!cn", "server": "proxyDns"}
       {"clash_mode": "direct", "server": "localDns"},
       {"clash_mode": "global", "server": "proxyDns"},
-      {"rule_set": "geosite-geolocation-!cn", "server": "proxyDns"}
     ],
     "final": "localDns",
     "strategy": "ipv4_only"
