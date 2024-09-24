@@ -4,9 +4,11 @@
 
 ## Sing-box
 
-macOS的图形客户端下载地址（官方）：https://github.com/SagerNet/sing-box/releases
+### 图形客户端
 
-## Homeproxy
+下载地址（官方）：https://github.com/SagerNet/sing-box/releases
+
+### Homeproxy
 
 Homeproxy插件下载地址：https://fantastic-packages.github.io/packages/
 
@@ -15,4 +17,5 @@ Homeproxy插件下载地址：https://fantastic-packages.github.io/packages/
 规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/sing/geo
 
 ## Mihomo
+
 MihomoTProxy插件地址：https://github.com/morytyann/OpenWrt-mihomo
