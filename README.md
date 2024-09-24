@@ -16,7 +16,9 @@
 
 规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/sing/geo
 
-## MihomoTProxy
+## Mihomo
+
+### MihomoTProxy
 
 插件地址：https://github.com/morytyann/OpenWrt-mihomo
 
