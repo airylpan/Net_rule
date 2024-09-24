@@ -9,5 +9,6 @@ https://github.com/SagerNet/sing-box/releases
 
 ### Homeproxy
 
-规则模版地址：
+规则模版地址：https://github.com/airylpan/Net_rule/blob/main/Sing-box/template/config_tun.json
+
 规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/sing/geo
