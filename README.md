@@ -20,6 +20,6 @@
 
 ### MihomoTProxy
 
-插件地址：https://github.com/morytyann/OpenWrt-mihomo
+插件下载地址：https://github.com/morytyann/OpenWrt-mihomo
 
 规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/meta/geo
