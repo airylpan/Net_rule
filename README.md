@@ -8,3 +8,6 @@ macOS的图形客户端下载地址（官方）：
 https://github.com/SagerNet/sing-box/releases
 
 ### Homeproxy
+
+规则模版地址：
+规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/sing/geo
