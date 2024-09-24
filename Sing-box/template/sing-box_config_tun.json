@@ -78,7 +78,7 @@
     { "tag": "🏡 JMS", "type": "selector", "outbounds": ["{all}"], "filter": [{ "action": "include", "keywords": ["Service S-832907"] }] },
     { "tag": "🌐 其他地区", "type": "selector", "outbounds": ["{all}"], "filter": [{ "action": "exclude", "keywords": ["🇭🇰|HK|hk|香港|港|HongKong|🇯🇵|JP|jp|日本|日|Japan|🇺🇸|US|us|美国|美|United States|Service S-832907"] }] },
     { "tag": "🐸 手动切换", "type": "selector", "outbounds": ["{all}"]},
-    { "tag": "GLOBAL", "type": "selector", "outbounds": ["♻️ 自动选择", "🎯 全球直连", "🇭🇰 香港节点", "🇯🇵 日本节点", "🇺🇲 美国节点", "🏡 JMS", "🐸 手动切换"] },
+    { "tag": "GLOBAL", "type": "selector", "outbounds": ["♻️ 自动选择", "🎯 全球直连", "🇭🇰 香港节点", "🇯🇵 日本节点", "🇺🇲 美国节点", "🏡 JMS", "🌐 其他地区", "🐸 手动切换"] },
     { "tag": "🎯 全球直连", "type": "direct" },
     { "tag": "dns-out", "type": "dns" }
   ],
