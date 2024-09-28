@@ -22,6 +22,8 @@ https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/Prox
 
 ## OpenClash
 
+### 第三方规则集地址：https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash
+
 自用模版链接地址：
 ```
 https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/mytemplates/Template_OpenClash_config.ini
