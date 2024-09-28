@@ -31,11 +31,6 @@ https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/mytemplates/
 
 ## Sing-box
 
-生成配置文件链接的规则:
-```
-https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址1|订阅链接地址2&file=规则模板json地址
-```
-
 ### 图形客户端
 
 下载地址（官方）：https://github.com/SagerNet/sing-box/releases
@@ -47,6 +42,11 @@ https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址1|订阅
 规则模版地址：https://github.com/airylpan/Net_rule/blob/main/Sing-box/template/config_tun.json
 
 第三方规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/sing/geo
+
+生成配置文件链接的规则:
+```
+https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址1|订阅链接地址2&file=规则模板json地址
+```
 
 ---
 
