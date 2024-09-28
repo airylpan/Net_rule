@@ -62,7 +62,7 @@ WRT插件下载地址：https://fantastic-packages.github.io/packages/
 
 参考配置模版地址：https://github.com/airylpan/Net_rule/blob/main/Sing-box/template/config_tun.json
 
-官方规则地址：https://github.com/Toperlock/sing-box-geosite/tree/main/rule
+官方规则集地址：https://github.com/Toperlock/sing-box-geosite/tree/main/rule
 
 第三方规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/sing/geo
 
