@@ -1,5 +1,7 @@
 # 网络相关规则
 
+---
+
 ## 自定义规则集地址：
 
 AI：
@@ -16,6 +18,7 @@ ProxyLite:
 ```
 https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/ProxyLite.list
 ```
+---
 
 ## OpenClash
 
@@ -23,6 +26,8 @@ https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/Prox
 ```
 https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/mytemplates/Template_OpenClash_config.ini
 ```
+
+---
 
 ## Sing-box
 
@@ -43,7 +48,11 @@ https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址1|订阅
 
 第三方规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/sing/geo
 
+---
+
 ## Mihomo
+
+自动配置文件：https://github.com/airylpan/Net_rule/blob/main/mytemplates/Template_Mihomo_config.yaml
 
 ### MihomoTProxy
 
@@ -51,6 +60,6 @@ https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址1|订阅
 
 第三方规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/meta/geo
 
-## mihomo-party
+### mihomo-party
 
 客户端下载地址：https://github.com/mihomo-party-org/mihomo-party.git
