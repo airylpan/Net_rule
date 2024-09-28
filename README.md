@@ -20,7 +20,7 @@ https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址1|订阅
 
 规则模版地址：https://github.com/airylpan/Net_rule/blob/main/Sing-box/template/config_tun.json
 
-规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/sing/geo
+第三方规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/sing/geo
 
 ## Mihomo
 
@@ -28,4 +28,4 @@ https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址1|订阅
 
 插件下载地址：https://github.com/morytyann/OpenWrt-mihomo
 
-规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/meta/geo
+第三方规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/meta/geo
