@@ -50,7 +50,7 @@ https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址1|订阅
 
 ### 手机 & Mac端
 
-自用配置模版地址：
+自用规则模版地址：
 
 ```
 https://github.com/airylpan/Net_rule/blob/main/mytemplates/Template_singbox_config.json
