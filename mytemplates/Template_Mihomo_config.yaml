@@ -125,10 +125,10 @@ rule-anchor:
   class: &class {type: http, interval: 86400, behavior: classical, format: text}
 rule-providers: 
   #自己仓库内的规则列表
-  direct1: { <<: *class, url: "https://raw.githubusercontent.com/qcyhub/rule/master/Direct.list" }
-  proxylite: { <<: *qcy, url: "https://raw.githubusercontent.com/qcyhub/rule/master/ProxyLite.list" }
-  ai: { <<: *qcy, url: "https://raw.githubusercontent.com/qcyhub/rule/master/AI.list" }
-  free: { <<: *qcy, url: "https://raw.githubusercontent.com/qcyhub/rule/master/Free.list" }
+  direct1: { <<: *class, url: "https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/Direct.list" }
+  proxylite: { <<: *qcy, url: "https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/ProxyLite.list" }
+  ai: { <<: *qcy, url: "https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/AI.list" }
+  free: { <<: *qcy, url: "https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/Free.list" }
   #第三方仓库内的规则列表
   private_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/private.mrs" }
   google_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/google.mrs" }
