@@ -115,7 +115,7 @@ rules:
   - RULE-SET,telegram_ip,📲 Telegram,no-resolve
   - RULE-SET,twitter_ip,🐦‍⬛ Twitter,no-resolve
   - RULE-SET,netflix_ip,🎥 NETFLIX,no-resolve
-  - RULE-SET,cn_ip,🌏 全球直连,no-resolve
+  - RULE-SET,cn_ip,🌏 全球直连
   - MATCH,🚀 节点选择
   
 rule-anchor:
