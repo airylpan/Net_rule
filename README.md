@@ -80,7 +80,7 @@ https://github.com/airylpan/Net_rule/blob/main/mytemplates/Template_homeproxy_co
 
 ### 客户端：
 
-MihomoTProxy：https://github.com/morytyann/OpenWrt-mihomo
+MihomoTProxy：https://github.com/morytyann/OpenWrt-mihomo/releases
 
 mihomo-party：https://github.com/mihomo-party-org/mihomo-party.git
 
