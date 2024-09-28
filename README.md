@@ -48,9 +48,7 @@ https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/mytemplates/
 https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址1|订阅链接地址2&file=规则模板json地址
 ```
 
-### 图形客户端
-
-下载地址（官方）：https://github.com/SagerNet/sing-box/releases
+### 手机 & Mac端
 
 自用配置模版地址：
 
