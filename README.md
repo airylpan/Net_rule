@@ -42,6 +42,12 @@ https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/mytemplates/
 
 ## Sing-box
 
+### 生成配置文件链接的规则:
+
+```
+https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址1|订阅链接地址2&file=规则模板json地址
+```
+
 ### 图形客户端
 
 下载地址（官方）：https://github.com/SagerNet/sing-box/releases
@@ -66,12 +72,6 @@ WRT插件下载地址：https://fantastic-packages.github.io/packages/
 
 ```
 https://github.com/airylpan/Net_rule/blob/main/mytemplates/Template_homeproxy_config.json
-```
-
-### 生成配置文件链接的规则:
-
-```
-https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址1|订阅链接地址2&file=规则模板json地址
 ```
 
 ---
