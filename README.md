@@ -1,6 +1,19 @@
 # 网络相关规则
 
+## 自定义规则集地址：
+
+AI：```https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/AI.list?token=GHSAT0AAAAAACX3TDR53Q37R4EGB3JUEA3OZXXOD3Q```
+
+Direct: ```https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/Direct.list?token=GHSAT0AAAAAACX3TDR5QT2POE7QAWLWUEQ2ZXXOENA```
+
+ProxyLite: ```https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/ProxyLite.list?token=GHSAT0AAAAAACX3TDR5AY444MXEUPINONJWZXXOE6A```
+
 ## OpenClash
+
+自用模版链接地址：
+```
+https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/mytemplates/Template_OpenClash_config.ini?token=GHSAT0AAAAAACX3TDR5ZCBKZH3ZC5SSYEIMZXXOBZQ
+```
 
 ## Sing-box
 
