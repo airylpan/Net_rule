@@ -4,14 +4,18 @@
 
 AI：
 ```
-https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/AI.list?token=GHSAT0AAAAAACX3TDR53Q37R4EGB3JUEA3OZXXOD3Q
+https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/AI.list
 ```
 
 Direct: 
-```https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/Direct.list?token=GHSAT0AAAAAACX3TDR5QT2POE7QAWLWUEQ2ZXXOENA```
+```
+https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/Direct.list
+```
 
 ProxyLite: 
-```https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/ProxyLite.list?token=GHSAT0AAAAAACX3TDR5AY444MXEUPINONJWZXXOE6A```
+```
+https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/ProxyLite.list
+```
 
 ## OpenClash
 
