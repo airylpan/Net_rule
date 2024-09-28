@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/Prox
 
 自用模版链接地址：
 ```
-https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/mytemplates/Template_OpenClash_config.ini?token=GHSAT0AAAAAACX3TDR5ZCBKZH3ZC5SSYEIMZXXOBZQ
+https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/mytemplates/Template_OpenClash_config.ini
 ```
 
 ## Sing-box
