@@ -53,14 +53,16 @@ https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址1|订阅
 
 ## Mihomo
 
-自动配置文件：https://github.com/airylpan/Net_rule/blob/main/mytemplates/Template_Mihomo_config.yaml
+### 客户端：
 
-### MihomoTProxy
+MihomoTProxy：https://github.com/morytyann/OpenWrt-mihomo
 
-插件下载地址：https://github.com/morytyann/OpenWrt-mihomo
+mihomo-party：https://github.com/mihomo-party-org/mihomo-party.git
 
-第三方规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/meta/geo
+### 第三方规则集地址：
 
-### mihomo-party
+https://github.com/MetaCubeX/meta-rules-dat/tree/meta/geo
 
-客户端下载地址：https://github.com/mihomo-party-org/mihomo-party.git
+### 自用配置文件：
+
+https://github.com/airylpan/Net_rule/blob/main/mytemplates/Template_Mihomo_config.yaml
