@@ -50,3 +50,7 @@ https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址1|订阅
 插件下载地址：https://github.com/morytyann/OpenWrt-mihomo
 
 第三方规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/meta/geo
+
+## mihomo-party
+
+客户端下载地址：https://github.com/mihomo-party-org/mihomo-party.git
