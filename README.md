@@ -3,7 +3,9 @@
 ## 自定义规则集地址：
 
 AI：
-```https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/AI.list?token=GHSAT0AAAAAACX3TDR53Q37R4EGB3JUEA3OZXXOD3Q```
+```
+https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/AI.list?token=GHSAT0AAAAAACX3TDR53Q37R4EGB3JUEA3OZXXOD3Q
+```
 
 Direct: 
 ```https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/Direct.list?token=GHSAT0AAAAAACX3TDR5QT2POE7QAWLWUEQ2ZXXOENA```
