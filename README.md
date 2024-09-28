@@ -80,14 +80,14 @@ https://github.com/airylpan/Net_rule/blob/main/mytemplates/Template_homeproxy_co
 
 ### 客户端：
 
-MihomoTProxy：https://github.com/morytyann/OpenWrt-mihomo/releases
+(WRT)MihomoTProxy：https://github.com/morytyann/OpenWrt-mihomo/releases
 
-mihomo-party：https://github.com/mihomo-party-org/mihomo-party.git
+(PC&macOS)mihomo-party：https://github.com/mihomo-party-org/mihomo-party/releases
 
 ### 第三方规则集地址：
 
 https://github.com/MetaCubeX/meta-rules-dat/tree/meta/geo
 
-### 自用配置文件：
+### 自用配置模版文件：
 
 https://github.com/airylpan/Net_rule/blob/main/mytemplates/Template_Mihomo_config.yaml
