@@ -26,8 +26,7 @@ https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/mytemplates/
 
 ## Sing-box
 
-### 配置生成链接规则
-
+生成配置文件链接的规则:
 ```
 https://sing-box-subscribe-doraemon.vercel.app/config/订阅链接地址1|订阅链接地址2&file=规则模板json地址
 ```
