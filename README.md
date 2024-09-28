@@ -90,4 +90,6 @@ https://github.com/MetaCubeX/meta-rules-dat/tree/meta/geo
 
 ### 自用配置模版文件：
 
+```
 https://github.com/airylpan/Net_rule/blob/main/mytemplates/Template_Mihomo_config.yaml
+```
