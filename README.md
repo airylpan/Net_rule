@@ -46,15 +46,27 @@ https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/mytemplates/
 
 下载地址（官方）：https://github.com/SagerNet/sing-box/releases
 
+自用配置模版地址：
+
+```
+https://github.com/airylpan/Net_rule/blob/main/mytemplates/Template_singbox_config.json
+```
+
 ### Homeproxy
 
-插件下载地址：https://fantastic-packages.github.io/packages/
+WRT插件下载地址：https://fantastic-packages.github.io/packages/
 
-规则模版地址：https://github.com/airylpan/Net_rule/blob/main/Sing-box/template/config_tun.json
+参考配置模版地址：https://github.com/airylpan/Net_rule/blob/main/Sing-box/template/config_tun.json
 
 官方规则地址：https://github.com/Toperlock/sing-box-geosite/tree/main/rule
 
 第三方规则集地址：https://github.com/MetaCubeX/meta-rules-dat/tree/sing/geo
+
+自用配置模版地址：
+
+```
+https://github.com/airylpan/Net_rule/blob/main/mytemplates/Template_homeproxy_config.json
+```
 
 ### 生成配置文件链接的规则:
 
