@@ -35,7 +35,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash
 
 自用模版链接地址：
 ```
-https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/mytemplates/Template_OpenClash_config.ini
+https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/airyldns.ini
 ```
 
 ---
