@@ -4,23 +4,24 @@
 
 ## 自定义规则集地址：
 
+AI：
+```
+https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/AI.list
+```
+
 Direct: 
 ```
-https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/Direct.list
+https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Direct.list
+```
+
+Free：
+```
+https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Free.list
 ```
 
 ProxyLite: 
 ```
-https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/ProxyLite.list
-```
-
-AI：
-```
-https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/AI.list
-```
-Free：
-```
-https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/Ruleset/Free.list
+https://raw.githubusercontent.com/airylpan/Net_rule/refs/heads/main/ProxyLite.list
 ```
 
 ---
